@@ -1,4 +1,4 @@
-# Pythonproject
-This respository contain python projects made by me
+# Pythonprojects
+This respository contain python projects 
 <br>
 Arthor - Abhishek Parida
