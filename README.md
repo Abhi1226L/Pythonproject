@@ -1,4 +1,4 @@
 # Pythonprojects
 This respository contain python projects 
 <br>
-Arthor - Abhishek Parida
+Author - Abhishek Parida
